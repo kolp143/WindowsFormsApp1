@@ -16,7 +16,7 @@ namespace WindowsFormsApp1
         public static string id = "";
         public static string pw = "";
         public OleDbConnection con;
-        public login()//charrrotdsfsf
+        public login()//ch
         {
             InitializeComponent();
             con = new OleDbConnection("Provider = Microsoft.Jet.OLEDB.4.0; Data Source = C:\\Users\\Mark Anthony\\WindowsFormsApp1\\WindowsFormsApp1\\LibSys.mdb");
